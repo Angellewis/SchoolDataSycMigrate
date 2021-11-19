@@ -14,7 +14,7 @@ namespace SchoolDataSyncMigrate.Config
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "WorkShop API",
+                    Title = "SchoolDataSync DBFiller",
                     Description = "A simple example ASP.NET Core Web API",
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
@@ -39,7 +39,7 @@ namespace SchoolDataSyncMigrate.Config
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "WorkShop API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "SchoolDataSync DBFiller");
             });
             return app;
         }

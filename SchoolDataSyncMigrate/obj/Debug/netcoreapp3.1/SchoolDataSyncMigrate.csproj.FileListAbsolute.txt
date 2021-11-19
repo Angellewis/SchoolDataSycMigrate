@@ -95,4 +95,3 @@ E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate\obj\Debug\netcoreapp3.1
 E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate\obj\Debug\netcoreapp3.1\SchoolDataSyncMigrate.dll
 E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate\obj\Debug\netcoreapp3.1\SchoolDataSyncMigrate.pdb
 E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate\obj\Debug\netcoreapp3.1\SchoolDataSyncMigrate.genruntimeconfig.cache
-E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate\obj\Debug\netcoreapp3.1\SchoolDataSyncMigrate.csproj.CopyComplete

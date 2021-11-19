@@ -1,0 +1,15 @@
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.deps.json
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Core.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Model.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Model.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Core.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.csproj.AssemblyReference.cache
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.AssemblyInfoInputs.cache
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.AssemblyInfo.cs
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.csproj.CoreCompileInputs.cache
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.csproj.CopyComplete
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Bl\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.pdb

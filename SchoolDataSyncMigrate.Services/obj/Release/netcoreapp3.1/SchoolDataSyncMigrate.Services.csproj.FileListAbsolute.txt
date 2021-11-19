@@ -1,0 +1,17 @@
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.deps.json
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Core.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Model.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Bl.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Core.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\bin\Release\netcoreapp3.1\SchoolDataSyncMigrate.Model.pdb
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.csproj.AssemblyReference.cache
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.AssemblyInfoInputs.cache
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.AssemblyInfo.cs
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.csproj.CoreCompileInputs.cache
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.csproj.CopyComplete
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.dll
+E:\Proyectos\SchoolDataSyncMigrate\SchoolDataSyncMigrate.Services\obj\Release\netcoreapp3.1\SchoolDataSyncMigrate.Services.pdb
